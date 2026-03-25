@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Product",
+	"category" : "JPMCSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CashflowProduct",
+	"type" : "normal"
+}
