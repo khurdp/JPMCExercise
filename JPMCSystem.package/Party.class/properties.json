@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Frame",
+	"category" : "JPMCSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Party",
+	"type" : "normal"
+}
