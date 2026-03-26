@@ -1,11 +1,16 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "2026-03-26T14:59:56.638241+05:30",
 	"super" : "Frame",
 	"category" : "JPMCSystem",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"portfliostrade"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"trades",
+		"portfolios"
+	],
 	"name" : "Portfolio",
 	"type" : "normal"
 }
