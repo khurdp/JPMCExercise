@@ -1,11 +1,13 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "2026-03-26T11:38:44.935963+05:30",
 	"super" : "Object",
 	"category" : "JPMCSystem",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"name"
+	],
 	"name" : "Frame",
 	"type" : "normal"
 }

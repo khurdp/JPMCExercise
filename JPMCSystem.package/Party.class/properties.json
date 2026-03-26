@@ -1,11 +1,15 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "2026-03-26T13:01:42.428698+05:30",
 	"super" : "Frame",
 	"category" : "JPMCSystem",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"books"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"books"
+	],
 	"name" : "Party",
 	"type" : "normal"
 }
