@@ -1,4 +1,4 @@
 testing
 frameNamed: aName
 
-	^self frames select: [ :e | e name = aName ].
+	^self frames detect: [ :e | e name = aName ] ifNone: [ nil ]

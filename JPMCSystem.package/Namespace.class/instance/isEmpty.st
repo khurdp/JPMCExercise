@@ -1,4 +1,4 @@
 testing
 isEmpty 
 
-	self frames isEmpty 
+	^self frames isEmpty 

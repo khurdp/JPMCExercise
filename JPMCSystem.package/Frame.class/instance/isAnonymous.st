@@ -1,4 +1,4 @@
 accessing
 isAnonymous 
 
-	^self name isNil or: [ self name isEmpty ]
+	^name isNil or: [ name isEmpty ]

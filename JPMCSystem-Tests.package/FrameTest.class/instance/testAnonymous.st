@@ -7,5 +7,6 @@ testAnonymous
 	aFrame := Frame named: ''.
 	self assert: aFrame isAnonymous.
 	aFrame := Frame new.
-	self assert: aFrame isAnonymous 
+	self assert: aFrame isAnonymous.
+	
 	

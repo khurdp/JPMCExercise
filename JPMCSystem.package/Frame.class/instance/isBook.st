@@ -1,0 +1,4 @@
+queries
+isBook
+
+	^false
